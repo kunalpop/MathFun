@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May 31 22:34:10 2022
+Created on Tue May 31 22:44:15 2022
 @author: Asus
 @description: maze problem
 
