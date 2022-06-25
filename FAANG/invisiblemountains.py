@@ -3,11 +3,11 @@
 Created on Jan 19 19:20:12 2021
 @author: Kunal Soni
 @DEscription:
-    -Given mountain peak coordinates(x,y):
+    -Given mountain peaks' coordinates(x,y):
         (2,5);(4,6);(7,2)
     -All mountains sloping at 45 degrees
     -All mountain bases on X axis    
-    Find the total number of peaks as seen from z axis
+    Find the total number of peaks as seen in the silhoutte of all mountains together as seen from z axis
 """
 
 class Point:
