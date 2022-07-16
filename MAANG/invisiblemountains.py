@@ -7,7 +7,7 @@ Created on Jan 19 19:20:12 2021
         (2,5);(4,6);(7,2)
     -All mountains sloping at 45 degrees
     -All mountain bases on X axis    
-    Find the total number of peaks as seen in the silhoutte of all mountains together as seen from z axis
+    Find the total number of peaks as seen in the silhoutte of all mountains as seen together from z axis (smaller mountains will be invisible)
 """
 
 class Point:
